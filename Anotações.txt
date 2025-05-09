@@ -1,0 +1,9 @@
+https://fastapidozero.dunossauro.com/estavel/
+
+https://github.com/dunossauro/fastapi-do-zero
+
+
+1 - Configuração do ambiente
+
+   Git -> Téo me why
+   Docker -> Jeferson
